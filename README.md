@@ -1,4 +1,4 @@
 GD1
 ===
 
-Course Materials for graphic design one.
+Course materials for Graphic Design 1.
