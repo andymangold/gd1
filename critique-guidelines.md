@@ -1,0 +1,12 @@
+# A Guide for Properly Critiquing Design Work
+===
+
+## Guiding Principles
+- Only offer critique in the context of the project's intent. Do not give criticism without first asking questions about the goal of the piece.
+- Observations, like how the work makes you feel, how are just as valuable as critique and are valid with or without context.
+- Talk about the work as it is, not the person who made it or the circumstances surrounding the piece's creation.
+- Good criticism comes from a place of love and a mutual desire to improve ourselves and our work. Try your very best not to take it personally or get defensive for the wrong reasons.
+- Talk about whether or not specific decisions are successful or unsuccessful in achieving the desired outcome. Try to avoid personal taste ('I like' or 'I don't like') and value judgements ('This is good' or 'This is bad') whenever possible.
+- Cite precedence and similar work often. This should not be given or perceived as an accusation of plagiarism, but rather an attempt to learn from the success and failure of the past.
+- Always ask questions, but be aware that the work must ultimately stand on its own. Questions should be used to gain insight into the piece's intent to offer better feedback, not as a crutch to explain work that cannot communicate effectively on its own.
+- When in doubt, simply 'state the obvious' by describing the piece aloud. Though this may sound silly at first, it can actually be quite enlightening.
