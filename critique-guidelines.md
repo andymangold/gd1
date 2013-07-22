@@ -3,7 +3,7 @@
 
 ## Guiding Principles
 - Only offer critique in the context of the project's intent. Do not give criticism without first asking questions about the goal of the piece.
-- Observations, like how the work makes you feel, how the piece differs from the other work on the wall, etc. are just as valuable as critique and are valid with or without context.
+- Objective observations, like how the work looks, makes you feel, or differs from the other work on the wall, etc. are just as valuable as critique and are valid with or without context.
 - Talk about the work as it is, not the person who made it or the circumstances surrounding the piece's creation.
 - Good criticism comes from a place of love and a mutual desire to improve ourselves and our work. Try your very best not to take it personally or get defensive about your work for the wrong reasons.
 - Talk about whether or not specific decisions are successful or unsuccessful in achieving the desired outcome. Try to avoid personal taste ('I like' or 'I don't like') and value judgements ('This is good' or 'This is bad') whenever possible.
