@@ -14,7 +14,7 @@ The goal of this course is to introduce students to the range of skills a design
 
 ## How the Class is Conducted
 
-The majority of the class time will be spent critiquing
+The majority of the class time will be spent critiquing the work completed in the previous week.
 
 ## Standards / Expectations / Grading Criteria
 
