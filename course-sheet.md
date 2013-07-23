@@ -42,9 +42,12 @@ Skills learned:
 
 Use custom CSS to re-skin a web app with Fluid, rethinking or redesigning it in some significant way.
 
-Skills leaned:
+Skills learned:
 - Basic CSS
 - How to use the web inspector
 - How to cope with messy markup and adapt to accomplish goals
 - How hard it is to design a successful interface
 - How to balance features with experience
+
+Precedence:
+- [Craig Mod - Twitter for Minimalists](http://craigmod.com/satellite/twitter_for_minimalists/)
