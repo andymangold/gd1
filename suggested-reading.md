@@ -4,6 +4,7 @@
 ## Compilations
 - [David Cole's "Personal Canon"](http://davidcole.me/canon/)
 - [Robert Lenne's "Required Reading for Product Designers"](http://robertlenne.com/requiredreading/)
+- [Mitch Goldstein's "Graphic Design Reading List"](http://www.designcrit.com/gd_reader.pdf)
 
 ## Essays
 - [Mark Eichenlaub's Essay on Learning](http://www.quora.com/Learning/Do-grad-school-students-remember-everything-they-were-taught-in-college-all-the-time/answer/Mark-Eichenlaub)
