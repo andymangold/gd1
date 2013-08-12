@@ -1,10 +1,13 @@
 # GD 1 Course Sheet
-
 ===
+
+
 
 ## Course Description
 
 The goal of this course is to introduce students to the range of skills a designer must have and how those skills can be put to use in the real world.
+
+
 
 ## Supplies / Must Haves
 
@@ -14,19 +17,28 @@ The goal of this course is to introduce students to the range of skills a design
 - Espresso for Mac
 - Chrome (Browser)
 
+
+
 ## How the Class is Conducted
 
 The majority of the class time will be spent critiquing the work completed in the previous week.
+
+
 
 ## Standards / Expectations / Grading Criteria
 
 Students will be expected to show up on time every week, exceed the requirements of each project, and actively participate in critiques.
 
+
+
 ## Schedule
 
 This is where the schedule will go.
 
+
+
 ## Projects
+
 
 ### Website
 
@@ -42,6 +54,7 @@ Skills learned:
 - How to properly and thoroughly document design work
 - Maintainability and best practices for asset management
 
+
 ### Second Skin
 
 Use CSS to re-skin a web app with Fluid, rethinking or redesigning it in some significant way.
@@ -55,3 +68,8 @@ Skills learned:
 
 Precedence:
 - [Craig Mod - Twitter for Minimalists](http://craigmod.com/satellite/twitter_for_minimalists/)
+
+
+### Monograph
+
+Share something you have special knowledge or expertise on in a concise way. This can be a publication, book, website, or something else, as long as it has a clear beginning and end. You are reponsible for authoring, creating, collecting, and curating all of the content in the monograph.
