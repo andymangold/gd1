@@ -5,7 +5,7 @@
 
 ## Course Description
 
-The goal of this course is to introduce students to the range of skills a designer must have and how those skills can be put to use in the real world.
+The goal of this course is to introduce students to the range of skills a designer should have and how those skills can be put to use in the real world.
 
 
 
@@ -54,8 +54,13 @@ Skills learned:
 - How to properly and thoroughly document design work
 - Maintainability and best practices for asset management
 
+Things to consider:
+- How can I best tailor my website to my work and the way in which it is documented?
+- What decisions can I make that will make me more likely to update my site regularly?
+- How can I make it easy to change the design of my site without creating a lot of manual labor for myself?
 
-### Second Skin
+
+### Molting
 
 Use CSS to re-skin a web app with Fluid, rethinking or redesigning it in some significant way.
 
@@ -65,6 +70,7 @@ Skills learned:
 - How to cope with messy markup and adapt to accomplish goals
 - How hard it is to design a successful interface
 - How to balance features with experience
+- How to accept imperfection and work iteratively
 
 Precedence:
 - [Craig Mod - Twitter for Minimalists](http://craigmod.com/satellite/twitter_for_minimalists/)
@@ -73,3 +79,23 @@ Precedence:
 ### Monograph
 
 Share something you have special knowledge or expertise on in a concise way. This can be a publication, book, website, or something else, as long as it has a clear beginning and end. You are reponsible for authoring, creating, collecting, and curating all of the content in the monograph.
+
+
+### Giving
+
+Give a gift to someone in your life. This gift must not be for an occasion or otherwise expected. Document your process, the gift itself, and (if non-intrusive) the delivery of and response to the gift.
+
+Skills learned:
+- How to be conscious of your audience
+- How to use your skills and knowledge to do something good.
+
+
+### Nemesis
+
+Create a brand that is in direct competition with a prominent, existing company. Carefully choose a company and a market that you have some knowledge or experience with, and that is badly in need of a new voice. Think about the practical considerations of your brand and realize that what will set your ficticious company apart will not be color, typography, or a logo. Be bold and indulgent. Design the kind of company you want to exist in the world.
+
+Skills learned:
+-
+
+Things to consider:
+-
