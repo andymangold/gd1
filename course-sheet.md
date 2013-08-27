@@ -5,7 +5,7 @@
 
 ## Course Description
 
-The goal of this course is to introduce students to the range of skills a designer should have and how those skills can be put to use in the real world.
+The goal of this course is to teach students to think like a designer, to approach the world with a critical eye, and to arm them with skills and processes that traverse specific tools and media.
 
 
 
@@ -21,13 +21,17 @@ The goal of this course is to introduce students to the range of skills a design
 
 ## How the Class is Conducted
 
-The majority of the class time will be spent critiquing the work completed in the previous week.
+Each class will consist of some combination of the following:
+- One or more 'Love Letter' presentations
+- Overview of new project expectations
+- Review and discussion of in progress or completed work
+- A short workshop on technique, software, or code
 
 
 
 ## Standards / Expectations / Grading Criteria
 
-Students will be expected to show up on time every week, exceed the requirements of each project, and actively participate in critiques.
+Students will be expected to show up on time every week, exceed the requirements of each project, and actively participate in discussions.
 
 
 
@@ -48,7 +52,7 @@ In addition to completing the assignment each week, students will be responsible
 
 After updating the website each week, students must also document the website itself, either with a series of screenshots or a short screencast. This documentation should be consistent each week to highlight the differences in the website itself.
 
-Skills learned:
+Learning:
 - HTML, CSS, and Javascript
 - An understanding of iterative design, specifically as it applies to the web
 - How to properly and thoroughly document design work
@@ -64,7 +68,7 @@ Things to consider:
 
 Use CSS to re-skin a web app with Fluid, rethinking or redesigning it in some significant way.
 
-Skills learned:
+Learning:
 - Basic CSS
 - How to use the web inspector
 - How to cope with messy markup and adapt to accomplish goals
@@ -72,7 +76,7 @@ Skills learned:
 - How to balance features with experience
 - How to accept imperfection and work iteratively
 
-Precedence:
+Precedence, Inspiration, and Related Reading:
 - [Craig Mod - Twitter for Minimalists](http://craigmod.com/satellite/twitter_for_minimalists/)
 
 
@@ -85,17 +89,45 @@ Share something you have special knowledge or expertise on in a concise way. Thi
 
 Give a gift to someone in your life. This gift must not be for an occasion or otherwise expected. Document your process, the gift itself, and (if non-intrusive) the delivery of and response to the gift.
 
-Skills learned:
+Learning:
 - How to be conscious of your audience
 - How to use your skills and knowledge to do something good.
+
+Precedence, Inspiration, and Related Reading:
+- The "Do Something Nice for Someone" project from Design Coalition
 
 
 ### Nemesis
 
-Create a brand that is in direct competition with a prominent, existing company. Carefully choose a company and a market that you have some knowledge or experience with, and that is badly in need of a new voice. Think about the practical considerations of your brand and realize that what will set your ficticious company apart will not be color, typography, or a logo. Be bold and indulgent. Design the kind of company you want to exist in the world.
+Create a brand that is in direct competition with a prominent, existing company. Carefully choose a company and a market that you have some knowledge or experience with, or that is badly in need of a new voice. Think about the practical considerations of your brand and realize that what will set your ficticious company apart will not be color, typography, or a logo. Be bold and indulgent. Design the kind of company you want to exist in the world.
 
-Skills learned:
--
+Learning:
+- The complexity, compromise, and interconnectedness of branding
+- How to identify a product or service's unique position in a market and represent that position visually
+- How to construct and present a complete and thorough brand
 
 Things to consider:
--
+- "The well designed X" is not an acceptable competitive edge. Try harder.
+
+Precedence, Inspiration, and Related Reading:
+- [Tesla Motors](http://www.teslamotors.com/)
+- [AirBNB](https://www.airbnb.com/)
+- [Netflix](https://www.netflix.com)
+
+
+### Love Letters
+
+Over the course of the semester, each student will be responsible for sharing something they love with the class. This can be just about anything, such as a book, album, person, place, time, film, product, or something else altogether. Share with the class in a way that makes the most sense for what you're sharing.
+
+The first week of class I will present something I love to the class.
+
+Learning:
+- Public speaking
+- How to tailor medium to message
+- All about the things your peers and classmates love
+
+Precedence, Inspiration, and Related Reading:
+- [Jesse Thorn's "Outshot" from Bullseye](https://soundcloud.com/search?q=outshot%20bullseye)
+- Ned Sparrow's class on Music and Lyrics
+- [Robin Sloan's "Fish: A Tap Essay"](http://www.robinsloan.com/fish/)
+- [Ira Glass on the gap between taste and skill](http://www.youtube.com/watch?v=BI23U7U2aUY)
