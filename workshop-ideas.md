@@ -8,7 +8,8 @@
 2. Basic HTML + CSS structure
 3. CSS "display" and "position" attributes
 4. px vs. em vs %
-5. Responsive Design
+5. Media Queries
+6. SASS and CSS Preprocessors
 
 
 ## Illustrator
@@ -17,6 +18,14 @@
 2. Pathfinder & Align Tools
 3. Blend Tool
 4. Orthogonal Vectoring
+5. Pattern Swatches
+6. Appearance Palette
+
+
+## InDesign
+
+1. Master Pages
+2. Character & Paragraph Styles
 
 
 ## Typography

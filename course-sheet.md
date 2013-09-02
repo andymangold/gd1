@@ -64,6 +64,15 @@ Things to consider:
 - How can I make it easy to change the design of my site without creating a lot of manual labor for myself?
 
 
+### Self-Portrait
+
+Create a self-portrait in black and white. Use this as an opportunity to teach the rest of the class something interesting and unique about yourself. Avoid simple facts, or any information about yourself that others may already know.
+
+Precedence, Inspiration, and Related Reading:
+- Bob Gill's Self-Portrait assignment from ["Design as Idea"](http://www.skillshare.com/classes/design/Design-as-Idea/982735118/)
+- Bruno Munari's Human Face Variations
+
+
 ### Molting
 
 Use CSS to re-skin a web app with Fluid, rethinking or redesigning it in some significant way.
@@ -87,14 +96,19 @@ Share something you have special knowledge or expertise on in a concise way. Thi
 
 ### Giving
 
-Give a gift to someone in your life. This gift must not be for an occasion or otherwise expected. Document your process, the gift itself, and (if non-intrusive) the delivery of and response to the gift.
+A good designer should be an excellent gift giver. Give a gift to someone in your life. This gift must not be for an occasion or otherwise expected. Document your process, the gift itself, and (if non-intrusive) the delivery of and response to the gift.
 
 Learning:
 - How to be conscious of your audience
 - How to use your skills and knowledge to do something good.
 
+Things to consider:
+- What gift are you uniquely suited to give?
+- What audience do you know in a unique way?
+
 Precedence, Inspiration, and Related Reading:
-- The "Do Something Nice for Someone" project from Design Coalition
+- [The "Touch Someone" project from Design Coalition](http://www.flickr.com/photos/designcoalition/sets/72157628019988918/)
+- ["Tag Savage: A Man"](http://trash.davidcole.me/post/9631566004/after-months-of-preparation-we-were-able-to-give)
 
 
 ### Nemesis
@@ -108,6 +122,7 @@ Learning:
 
 Things to consider:
 - "The well designed X" is not an acceptable competitive edge. Try harder.
+- Painting colored lines and shapes on existing products is not an acceptable competitive edge, either.
 
 Precedence, Inspiration, and Related Reading:
 - [Tesla Motors](http://www.teslamotors.com/)
@@ -123,6 +138,7 @@ The first week of class I will present something I love to the class.
 
 Learning:
 - Public speaking
+- How to talk about art and design positively
 - How to tailor medium to message
 - All about the things your peers and classmates love
 
