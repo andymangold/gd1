@@ -297,7 +297,7 @@ Learning:
 - How to tailor medium to message
 - About the things your peers and classmates love
 
-Things to csonsider:
+Things to consider:
 - What do you know about the origins of your subject?
 - What can we learn about design from your subject?
 
