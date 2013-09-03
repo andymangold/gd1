@@ -370,7 +370,7 @@ Things to consider:
 - In what ways should your brand look similar to existing brands in your market? In what ways should it look different?
 
 Related Reading:
-- [Tesla Motors](http://www.teslamotors.com/), [Spacex](http://www.spacex.com/), and the rest of Elon Musk's products
+- [Tesla Motors](http://www.teslamotors.com/), [Spacex](http://www.spacex.com/), and the rest of Elon Musk's projects
 - [AirBNB](https://www.airbnb.com/)
 - [Netflix](https://www.netflix.com)
 - [Brand New](http://www.underconsideration.com/brandnew/)
