@@ -2,6 +2,10 @@
 ===
 
 
+*Instructor:* Andy Mangold
+*Email:* amangold@mica.edu
+*Twitter:* @andymangold
+
 
 ## Course Description
 
@@ -62,7 +66,6 @@ You will be graded on the effort you put into your projects, your participation 
 #### In Class
 - Review course description
 - Complete class survey
-- Andy presents his Love Letter
 - Complete "Selfie"
 - Github and basic HTML + CSS workshop
 
@@ -284,7 +287,7 @@ Related Reading:
 
 Over the course of the semester, you and each of your classmates will be responsible for sharing something you love with the class. This can be anything creative, such as a book, album, person, place, time, film, product, or something else altogether. Present it in a way that makes the most sense for what you're sharing. Your presentation should be about 10 minutes in length.
 
-We will start off class with one, or when necessary two, Love Letter presentations every week. You will sign up ahead of time for a slot. The first week I will present something I love to the class as an example.
+We will start off class with one, or when necessary two, Love Letter presentations every week. You will sign up ahead of time for a slot.
 
 Learning:
 - How to give a presentation
