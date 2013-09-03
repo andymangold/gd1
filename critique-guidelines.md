@@ -1,8 +1,9 @@
-# How to Talk About Design Work
+# How to Speak Intelligently About Design
 ===
 
 ## Guiding Principles
 - Only offer criticism in the context of the project's intent. Do not give critique without first asking questions about the goal of the piece.
+- If you don't know the project's intent, state your criticism with the context of an assumed intent. For example, when discussing a newspaper, it's safe to assume that the content of the articles is intended to be readable, but state that assumption anyway. You can also use if statements such as "If this logo is meant to engender trust, the use of devil horns seems counterproductive" when intent is not known.
 - Objective observations, like how the work looks, makes you feel, or differs from the other work on the wall, etc. are just as valuable as critique and are valid with or without context.
 - Talk about the work as it is, not the person who made it or the circumstances surrounding the piece's creation.
 - Good criticism comes from a place of love and a mutual desire to improve ourselves and our work. Try your very best not to take it personally or get defensive about your work for the wrong reasons.

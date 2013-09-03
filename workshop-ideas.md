@@ -1,4 +1,4 @@
-# Workshop Ideas
+# Potential Workshop Ideas
 ===
 
 
@@ -9,7 +9,7 @@
 3. CSS "display" and "position" attributes
 4. px vs. em vs %
 5. Media Queries
-6. SASS and CSS Preprocessors
+6. SASS and other CSS Preprocessors
 
 
 ## Illustrator
@@ -34,6 +34,7 @@
 2. Text Size
 3. Measure
 4. Choosing Typefaces
+5. Pairing Typefaces
 
 
 ## Miscellaneous

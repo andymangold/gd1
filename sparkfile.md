@@ -1,4 +1,4 @@
-# Stuff I Want to Say to the Students but Haven't Categorized Yet
+# Stuff I Want to Say but Haven't Categorized Yet
 ===
 
 - Design's effectivness can be observed and sometimes measured. You can always weigh your decisions against questions of intent, content, and audience. This is a beautiful gift and should not be taken for granted.
