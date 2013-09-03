@@ -217,7 +217,7 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 - Update and improve your personal archive.
 
 
-### Week 14 — November 5
+### Week 14 — December 3
 
 #### In Class
 - TBD Love Letter Presentation(s)
@@ -229,7 +229,7 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 - Update and improve your personal archive.
 
 
-### Week 15 — December 3
+### Week 15 — December 10
 
 #### In Class
 - TBD Love Letter Presentation(s)
@@ -238,22 +238,11 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 
 #### Homework
 - Complete "Monograph" based on the feedback from class.
-- Update and improve your personal archive.
-
-
-### Week 16 — December 10
-
-#### In Class
-- TBD Love Letter Presentation(s)
-- Final review of "Monograph"
-- TBD Workshop
-
-#### Homework
 - Revisit the project from the semester that you are least satisfied with. Make significant improvements or updates to it and document the before and after.
 - Update and improve your personal archive. This is your last opportunity to fix anything that has been bugging you and put the final polish on the site.
 
 
-### Week 17 — December 17
+### Week 16 — December 17
 
 #### In Class
 - Final review and celebration of work completed!
