@@ -109,7 +109,7 @@ You grade will be broken down by project as follows:
 - Introduction to "Nemesis"
 - TBD Workshop
 
-#### Homework'
+#### Homework
 - Begin working on "Nemesis" by choosing an existing company to be your foil. Research that company and the market it occupies and be prepared to discuss this research. Come up with at least three different concpepts for your brand and prepare visual representations of the concepts.
 - Update and improve your personal archive.
 
