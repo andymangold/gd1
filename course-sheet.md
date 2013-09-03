@@ -282,12 +282,12 @@ Related Reading:
 
 ### Love Letter
 
-Over the course of the semester, you will be responsible for sharing something you love with the class. This can be anything creative, such as a book, album, person, place, time, film, product, or something else altogether. Present it in a way that makes the most sense for what you're sharing. Your presentation should be about 10 minutes in length.
+Over the course of the semester, you and each of your classmates will be responsible for sharing something you love with the class. This can be anything creative, such as a book, album, person, place, time, film, product, or something else altogether. Present it in a way that makes the most sense for what you're sharing. Your presentation should be about 10 minutes in length.
 
-The first week I will present something I love to the class as an example.
+We will start off class with one, or when necessary two, Love Letter presentations every week. You will sign up ahead of time for a slot. The first week I will present something I love to the class as an example.
 
 Learning:
-- Public speaking
+- How to give a presentation
 - How to talk about art and design positively
 - How to tailor medium to message
 - About the things your peers and classmates love
