@@ -19,10 +19,10 @@ For many of the assignments, the format will be left up to you. This is an oppor
 
 ## Supplies / Must Haves
 
-- GitHub Account
-- GitHub for Mac
-- Espresso for Mac (if you are experienced with CSS and already have a preferred text editor, please let me know)
-- Sublime Text 2
+- [GitHub](https://github.com/) Account
+- [GitHub for Mac](http://mac.github.com/)
+- [Espresso for Mac](http://macrabbit.com/espresso/) (if you are experienced with CSS and already have a preferred text editor, please let me know)
+- [Sublime Text 2](http://www.sublimetext.com/2)
 - Chrome (Browser)
 - A backup service, such as [Dropbox](https://www.dropbox.com/) or [Backblaze](http://www.backblaze.com/) — I have a zero tolerance policy for "lost/corrupted files" as an excuse for late or incomplete work.
 
@@ -47,6 +47,8 @@ Critiques will be done in a "pin-up" style. Letter-sized printouts of everyone's
 You will be expected to show up on time every week, exceed the requirements of each project, and actively participate in discussions. Your work should reflect your unique skills and perspective. You should demonstrate a desire to learn and improve your craft. You will be expected to juggle multiple projects at the same time.
 
 You will be graded on the effort you put into your projects, your participation in class discussions, your responsiveness to feedback, and your improvement as a designer over the course of the class.
+
+You grade will be broken down by project as follows:
 
 - Personal Archive: 30%
 - Love Letter: 5%
