@@ -79,9 +79,9 @@ You grade will be broken down by project as follows:
 ### Week 2 — September 10
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Sam's Love Letter Presentation
 - Discussion of "Selfie"
-- TBD Workshop
+- CSS Workshop
 
 #### Homework
 - Complete and document "It's the Thought that Counts".
@@ -91,7 +91,7 @@ You grade will be broken down by project as follows:
 ### Week 3 — September 17
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- May's Love Letter Presentation
 - Discussion of "It's the Thought that Counts"
 - Introduction to "The Pen is Mightier"
 - TBD Workshop
@@ -104,7 +104,8 @@ You grade will be broken down by project as follows:
 ### Week 4 — September 24
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Zak's Love Letter Presentation
+- Derek's Love Letter Presentation
 - Discussion of "The Pen is Mightier"
 - Introduction to "Nemesis"
 - TBD Workshop
@@ -117,7 +118,7 @@ You grade will be broken down by project as follows:
 ### Week 5 — October 1
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Amelia's Love Letter Presentation
 - In progress discussion of "Nemesis"
 - TBD Workshop
 
@@ -129,7 +130,8 @@ You grade will be broken down by project as follows:
 ### Week 6 — October 8
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Jess's Love Letter Presentation
+- Chris's Love Letter Presentation
 - In progress discussion of "Nemesis"
 - TBD Workshop
 
@@ -141,7 +143,8 @@ You grade will be broken down by project as follows:
 ### Week 7 — October 15
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Katie's Love Letter Presentation
+- Sharon's Love Letter Presentation
 - Final review of "Nemesis"
 - Introduction to "Become the Master"
 - TBD Workshop
@@ -159,7 +162,9 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 9 — October 29
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Bomin's Love Letter Presentation
+- Zae's Love Letter Presentation
+- Adrienne's Love Letter Presentation
 - In progress discussion of "Become the Master"
 - TBD Workshop
 
@@ -171,9 +176,8 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 10 — November 5
 
 #### In Class
-- TBD Love Letter Presentation(s)
 - "Become the Master" testing and discussion
-- TBD Workshop
+- TBD Workshop (pending)
 
 #### Homework
 - Based on the feedback from our testing session, improve and complete "Become the Master". Be sure to document it fully, perhaps with an example subject.
@@ -183,7 +187,7 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 11 — November 12
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Young Man's Love Letter Presentation
 - Final Review of "Become the Master"
 - Introduction to "Monograph"
 - TBD Workshop
@@ -196,7 +200,8 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 12 — November 19
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Angel's Love Letter Presentation
+- Allyson's Love Letter Presentation
 - In progress discussion of "Monograph"
 - TBD Workshop
 
@@ -208,7 +213,8 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 13 — November 26
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Rizzo's Love Letter Presentation
+- Anna's Love Letter Presentation
 - In progress discussion of "Monograph"
 - TBD Workshop
 
@@ -220,7 +226,8 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 14 — December 3
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Nicole's Love Letter Presentation
+- Chelsea's Love Letter Presentation
 - In progress discussion of "Monograph"
 - TBD Workshop
 
@@ -232,7 +239,8 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 15 — December 10
 
 #### In Class
-- TBD Love Letter Presentation(s)
+- Deandre's Love Letter Presentation
+- Joanne's Love Letter Presentation
 - In progress discussion of "Monograph"
 - TBD Workshop
 
