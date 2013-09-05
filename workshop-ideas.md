@@ -22,6 +22,12 @@
 6. Appearance Palette
 
 
+## Photoshop
+
+1. Bitmap Tiffs!
+2. Black & White
+
+
 ## InDesign
 
 1. Master Pages
