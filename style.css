@@ -27,12 +27,13 @@ a.student-card {
   box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.33);
   background: #fff;
   position: relative;
-  transition: margin 0.2s ease;
+  transition: margin 0.2s ease, box-shadow 0.2s ease;
 }
 
 a.student-card:hover {
   margin: -0.5% 1.2% 2% 0;
-  transition: margin 0.2s ease;
+  box-shadow: 2px 12px 12px rgba(0, 0, 0, 0.12);
+  transition: margin 0.2s ease, box-shadow 0.2s ease;
 }
 
 a.student-card:nth-of-type(5n) {
