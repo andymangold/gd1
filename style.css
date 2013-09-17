@@ -28,6 +28,9 @@ a.student-card {
   background: #fff;
   position: relative;
   transition: margin 0.2s ease, box-shadow 0.2s ease;
+
+  color: #000;
+  text-decoration: none;
 }
 
 a.student-card:hover {
@@ -41,12 +44,17 @@ a.student-card:nth-of-type(5n) {
 }
 
 a.student-card h2{
-  display: none;
+  font-size: 0.8em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 a.student-card img.letter-spacer {
   width: 100%;
   height: auto;
+  display: none;
 }
 
 a.student-card img.content {
@@ -56,6 +64,8 @@ a.student-card img.content {
   max-height: 100%;
   top: 0;
   left: 0;
+
+  display: none;
 }
 
 a.student-card img.content.x {
