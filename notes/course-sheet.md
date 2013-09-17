@@ -94,7 +94,7 @@ You grade will be broken down by project as follows:
 - May's Love Letter Presentation
 - Discussion of "It's the Thought that Counts"
 - Introduction to "The Pen is Mightier"
-- TBD Workshop
+- CSS Typography
 
 #### Homework
 - Complete and document "The Pen is Mightier".
@@ -344,11 +344,12 @@ Related Reading:
 
 ### The Pen is Mightier
 
-Prepare a written critique of a piece of design in the news (I will provide a list of options the day the assignment is given). We will use everyone's written piece as a jumping off point for an in class critique. It is more important that your criticism be thoughtful and enlightening than your writing be exceptionally creative or high quality. Refer to the provided guidelines when writing your criticism.
+Prepare a written critique of one aspect of The New Yorker, given their recent design refresh. Focus on either the print edition, the website, the iOS newsletter app, or some other facet of the brand. We will use everyone's written piece as a jumping off point for an in class critique. It is more important that your criticism be thoughtful and enlightening than your writing be exceptionally creative or high quality. Refer to the provided guidelines when writing your criticism.
 
 Learning:
 - How to write intelligently about design
 - Awareness of the complex considerations behind every piece of design
+- That design is an evolved form of writing
 
 Things to consider:
 - Can my criticism be informed by any special knowledge or experience I have? What unique perspective can I provide?
@@ -356,6 +357,9 @@ Things to consider:
 Related Reading:
 - [Brand New](http://www.underconsideration.com/brandnew/)
 - [The Why Axis](http://thewhyaxis.info/)
+- [Michael Rock on Design Matters](https://soundcloud.com/designmatters/design-matters-with-debbie-136)
+- [The New Yorker Gets Refreshed](http://www.newyorker.com/online/blogs/culture/2013/09/redesigning-the-goings-on-about-town-section.html)
+- [Michael Beirut — In Praise of Slow Design](http://observatory.designobserver.com/entry.html?entry=3947)
 
 
 ### Nemesis
