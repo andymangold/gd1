@@ -49,6 +49,7 @@ a.student-card h2{
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
+  font-family: "hwt-american-solid",sans-serif;
 }
 
 a.student-card img.letter-spacer {
