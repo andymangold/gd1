@@ -176,24 +176,21 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 ### Week 10 — November 5
 
 #### In Class
-- "Become the Master" testing and discussion
-- TBD Workshop (pending)
+- Think Wrong Workshop with Ryan Clifford
 
 #### Homework
-- Based on the feedback from our testing session, improve and complete "Become the Master". Be sure to document it fully, perhaps with an example subject.
-- Update and improve your personal archive.
+- Complete the homework from the Think Wrong workshop and make sure your "Become the Master" project is complete, printed out or otherwise produced, and accompanied by any and all props required for user testing.
 
 
 ### Week 11 — November 12
 
 #### In Class
-- Young Man's Love Letter Presentation
-- Final Review of "Become the Master"
-- Introduction to "Monograph"
-- TBD Workshop
+- Young Man's Love Letter Presentation (move this)
+- "Become the Master" user testing session
+
 
 #### Homework
-- Begin working on "Monograph" by identifying at least three potential subjects for your project. Do your research and bring in example content for each of these subjects, some created by you and some curated from elsewhere. Be prepared to talk about each subject and why it interests you.
+- Make adjustments to your "Become the Master" project based on the user-testing sessions we conducted. Produce your final project and post it to your website with full documentation. Consider doing a write-up about what you learned from user testing.
 - Update and improve your personal archive.
 
 
@@ -202,11 +199,12 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 #### In Class
 - Angel's Love Letter Presentation
 - Allyson's Love Letter Presentation
-- In progress discussion of "Monograph"
+- Final Review of "Become the Master"
+- Introduction to "Monograph"
 - TBD Workshop
 
 #### Homework
-- Continue working on "Monograph" by choosing your final subject and applying visual design to at least three different pieces of example content. This doesn't have to be in its final form, but should show color palettes, type treatments, imagery treatments, etc. Continue researching, collecting, and creating content.
+- Begin working on "Monograph" by identifying at least three potential subjects for your project. Do your research and bring in example content for each of these subjects, some created by you and some curated from elsewhere. Be prepared to talk about each subject and why it interests you. Create visual design for at least three different pieces of example content. This doesn't have to be in its final form, but should show color palettes, type treatments, imagery treatments, etc. Continue researching, collecting, and creating content.
 - Update and improve your personal archive.
 
 
@@ -217,6 +215,7 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 - Anna's Love Letter Presentation
 - In progress discussion of "Monograph"
 - TBD Workshop
+
 
 #### Homework
 - Continue working on "Monograph" by applying the designs to all of your collected content and place it into your decided upon format. Design every aspect/page/spread/layout of your monograph and bring them all in to discuss. Print out your favorite piece of your project and pin it up for critique, but post all of your work to your site.
@@ -232,7 +231,7 @@ Fall Break: no class. Actually take a break, you deserve it and it will make you
 - TBD Workshop
 
 #### Homework
-- Continue working on "Monograph" and be prepared to present it to the class in it's final form. If it is a book, this means printing and binding it; if it is a website, this means publishing it at its final url; etc.
+-  Continue working on "Monograph" and be prepared to present it to the class in it's final form. If it is a book, this means printing and binding it; if it is a website, this means publishing it at its final url; etc.
 - Update and improve your personal archive.
 
 
