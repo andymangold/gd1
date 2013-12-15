@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 2%;
+  padding: 2% 2% 30%;
   background: #eee;
   color: #222;
   font-family: Helvetica, Verdana, sans-serif;
@@ -20,64 +20,42 @@ header .separator {
   margin: 0 1em;
 }
 
-a.student-card {
-  width: 19%;
-  margin: 0 1.2% 1.5% 0;
-  float: left;
-  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.33);
-  background: #fff;
-  position: relative;
-  transition: margin 0.2s ease, box-shadow 0.2s ease;
+ul {
+  list-style: none;
+  margin: 0 20%;
+}
 
-  color: #000;
+ul li {
+  border-bottom: 1px dashed #ccc;
+  padding: 0.5em 0;
+}
+
+ul li a {
+  transition: all 0.2s;
+}
+
+ul li a.primary-link {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #222;
   text-decoration: none;
 }
 
-a.student-card:hover {
-  margin: -0.5% 1.2% 2% 0;
-  box-shadow: 2px 12px 12px rgba(0, 0, 0, 0.12);
-  transition: margin 0.2s ease, box-shadow 0.2s ease;
+ul li a.primary-link:hover {
+  color: #4CCA9D;
 }
 
-a.student-card:nth-of-type(5n) {
-  margin-right: 0;
-}
 
-a.student-card h2{
-  font-size: 0.8em;
-  font-weight: normal;
-  text-align: center;
+ul li a.code-link {
+  background: #fff;
+  padding: 0.3em 0.5em 0.2em;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  font-family: "hwt-american-solid",sans-serif;
+  color: #222;
+  text-decoration: none;
+  border-radius: 0.2em;
+  float: right;
 }
 
-a.student-card img.letter-spacer {
-  width: 100%;
-  height: auto;
-  display: none;
-}
-
-a.student-card img.content {
-  position: absolute;
-  width: 100%;
-  height: auto;
-  max-height: 100%;
-  top: 0;
-  left: 0;
-
-  display: none;
-}
-
-a.student-card img.content.x {
-  display: none;
-  z-index: 1000;
-}
-
-a.student-card img.content.self-portrait {
-  z-index: 800;
-}
-
-a.student-card.disabled img.content.x {
-  display: block;
+ul li a.code-link:hover {
+  background-color: #4CCA9D;
 }
